@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @bolajioseni4
-- 👀 I’m interested in finally learning to code and building upon this knowledge to program and problem-solve in different languages with the goal of becoming a software developer
-- 🌱 I’m currently learning HTML5 and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bolajioseni4@gmail.com
+- Hi, I’m Bolaji!
+- I’m interested in collaborating and building upon my ability to investigate and problem-solve using Structured Query Language with the goal of becoming a data and business intelligence analyst  
+- How to reach me: bolajioseni4@gmail.com
 
 <!---
 bolajioseni4/bolajioseni4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
